@@ -1,0 +1,155 @@
+name: Bunkersuites
+analytics: {}
+github: true
+description: secure to the bone
+author:
+  name: Bunkersuites Privacy VPN Box
+  url: 'http://www.prudenzia.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4abf7173-cd16-4132-a5bf-4b0337724c00.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4abf7173-cd16-4132-a5bf-4b0337724c00.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0aaeb2-c3e4-4d04-9c4c-3edc65cb67df.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae0aaeb2-c3e4-4d04-9c4c-3edc65cb67df.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f23e27-c071-44aa-97f3-1e92bcdf7fa1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f23e27-c071-44aa-97f3-1e92bcdf7fa1.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f92aa68-c2cf-40b7-b7c6-552b0a6ad4ef.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f92aa68-c2cf-40b7-b7c6-552b0a6ad4ef.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - id: 35537473-2e3d-4b49-b05d-ff968ccd7acc
+    name: Our free privacy box - How do I install it?
+    type: content
+  - id: 055cf0e6-e159-4e3b-8328-31403c0a995b
+    name: Our easy-to-use GUI
+    type: content
+  - id: 5c1ce58f-fcc6-474b-8ac4-7ec2ac9771b4
+    name: Hardware Store - Built your own box now
+    type: content
+layout_spectrum: 0.6254163428675383
+color:
+  lightness: 0.9149578337091953
+  brandColors:
+    - '#BFBFC1'
+    - '#211F22'
+    - '#8D8C91'
+    - '#525358'
+    - '#FFFBFE'
+  saturation: 0.6030121261719614
+  brandStrength: 0.36139317066408694
+  rhythmicContrast: 0.5596043053083122
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/603d60fa-c64d-4313-86b0-dbcd80110039.png
+content_rating:
+  adult: false
+typography_spectrum: 0.24859664216637611
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/da08fadb-9ea9-408b-9184-37cf28b40ab5.png
+title: Bunkersuites Privacy VPN Raspberry Box
+url: 'http://www.bunkersuites.com'
